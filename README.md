@@ -1,5 +1,10 @@
 # ai-naming
 
+[![npm version](https://img.shields.io/npm/v/ai-naming.svg)](https://www.npmjs.com/package/ai-naming)
+[![npm downloads](https://img.shields.io/npm/dm/ai-naming.svg)](https://www.npmjs.com/package/ai-naming)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Get suggestions for better variable and function names in your code. Clean code starts with good names.
 
 ## Install
